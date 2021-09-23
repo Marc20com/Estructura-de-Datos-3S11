@@ -65,8 +65,8 @@ public class Trabajo_en_clase_20_09_2021 {
                             }
                          }
                          }
-                        System.out.println("Las letras"+ Letrado);
-                        System.out.println("Se repite: "+ Mayor);
+                        System.out.println("Las letras"+ Letrado);\\Un no soluciono el problema de darme los datos que esten repetidos si meda el mas repetido
+                        System.out.println("Se repite: "+ Mayor);\\pero no las letras solo da una °n°
          
                     }else {
                       System.out.println("pila vacia { ° - °}........ "+ tope);  
